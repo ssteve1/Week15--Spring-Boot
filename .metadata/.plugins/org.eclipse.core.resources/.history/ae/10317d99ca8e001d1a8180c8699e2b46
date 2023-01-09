@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.promoneotech.jeep.dao;
+
+/**
+ * @author 19294
+ *
+ */
+public interface JeepSalesDao {
+
+}

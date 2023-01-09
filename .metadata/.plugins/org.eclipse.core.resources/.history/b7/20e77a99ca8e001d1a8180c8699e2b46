@@ -1,0 +1,5 @@
+package com.promoneotech.jeep.dao;
+
+public class DefaultJeepSalesDao implements JeepSalesDao {
+
+}

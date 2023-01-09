@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.promoneotech.jeep.dao;
+
+import java.util.List;
+
+import com.promineotech.jeep.entity.Jeep;
+import com.promineotech.jeep.entity.JeepModel;
+
+/**
+ * @author 19294
+ *
+ */
+public interface JeepSalesDao {
+	List<Jeep> fetchJeeps(JeepModel model, String trim);
+
+}
